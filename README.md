@@ -1,4 +1,4 @@
-# About me[https://github.com/dhruvzara]
+# [About me](https://github.com/dhruvzara)
 
 ## I have put my projects under 4 Repositories:
 -Front End Projects[https://github.com/dhruvzara/front-end]
