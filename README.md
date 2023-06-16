@@ -5,7 +5,7 @@
 -Back End Projects[https://github.com/dhruvzara/back-end]
 
 # Check Out my other profiles:
--linkedIn[link]
+-linkedIn[https://www.linkedin.com/in/mr-dhruv-20918a261/]
 -hackerank[link]
 -blog[link]
 -medium[link]
