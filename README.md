@@ -11,7 +11,7 @@
 -medium[link]
 
 # front-end projact[link]
-## 1.project link
+## 1.project link [http://127.0.0.1:5500/index.html]
 
 ### project explain line-----------
 - using javascript jquery, slick library,bootstrap,and core front-end
